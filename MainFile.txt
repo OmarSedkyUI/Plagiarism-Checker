@@ -1,0 +1,11 @@
+ASP.net is an open source, server-side web-application framework designed for web development for producing dynamic web pages. The main reason for it is development by Microsoft was to allow programmers build dynamic web sites, services and applications. Version 1.0 of the .NET Framework was first released in January 2002 and is the successor to Microsoft’s Active Server Pages (ASP) technology. It is built on the common language Runtime (CLR), which allow programmers to write ASP.NET code using any supported .Net language. The ASP.Net SOAP extension framework which allows ASP.NET components to process SOAP messages. The successor of ASP.NET is  ASP.NET Core. Basically, it is the re-implementation of ASP.NET as modular web framework, together with other frameworks like Entity Framework. The new framework uses the new open source know as .NET compiler Platform and is cross platform ASP.NET MVC, ASP.NET Web API and ASP.NET Web Pages have merged into a unified MVC 6. There is number of programming modules that ASP.NET supports for web building like:
+ASP.NET Web Forms: A framework to build modular pages out of components, having UI events processed server-side.
+ASP.NET MVC: uses model–view–controller design pattern to allow building pages.
+ASP.NET Web Pages: A lightweight syntax for adding dynamic code and data access directly inside HTML markup.
+ASP.NET Web API: A framework used for building Web APIs on top of the .NET Framework.
+ASP.NET WebHooks: it Implements the Webhook pattern to subscribe to and publish events via HTTP.
+SignalR: A communications framework for bi-directional communication between client and server.
+There are also some ASP.NET extensions like: 
+ASP.NET Handler: Components that implement the System.Web.IHttpHandler interface. Different from ASP.NET Pages, they have no HTML-markup file, no events and other supporting. What they have is a code-file (written in any .NET-compatible language) which writes some data to the server HTTP response. HTTP handlers are similar to ISAPI extensions.
+ASP.NET AJAX: An extension with both client-side and server-side components for writing ASP.NET pages that incorporate Ajax functionality.
+ASP.Net Dynamic Data: An extension for building data driven web applications.

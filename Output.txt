@@ -1,0 +1,5 @@
+ASP.net is an open source, server-side web-application framework designed for web development for producing dynamic web pages.ASP.NET is an open-source, server-side web-application framework designed for web development to produce dynamic web pages.
+It is built on the common language Runtime (CLR), which allow programmers to write ASP.NET code using any supported .Net language.ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language.
+The ASP.Net SOAP extension framework which allows ASP.NET components to process SOAP messages.The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
+Plagarism: 21%
+Unique: 79%
